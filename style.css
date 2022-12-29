@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding-top: 800px;
+    text-align: center
+}
+.profile{
+    border-radius: 50%;
+   
+}
+#welcome{
+    position:absolute;
+    bottom: 0;
+    background-color:  cadetblue;
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+h1{
+    font-size: 25px;
+    font-family: Georgia;
+    font-weight: 300;
+    text-align: center;
+    
+}
+#name{
+    font-size: 50px;
+    font-family: Georgia;
+}
+h2{
+    font-size: 25px;
+    font-family: Georgia;
+    font-weight: 300;
+}
+#bio{
+    font-size: 50px;
+    font-family: 'Arial Narrow Bold';
+    padding: 50px;
+}
+.line{
+    height: 6px;
+    background-color:aqua;
+    width: 70px;
+    margin: 8px auto;
+}
+.parallax-inner{
+    display: table-cell;
+    vertical-align: middle;
+    
+}
+.menu{
+    position: fixed;
+    background: greenyellow;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    text-align: center;
+    border: 2px;
+}
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 33px;
+    font-family: Georgia;
+    font-size: 40px;
+}
+#contactos{
+    background-color: rgb(0, 255, 106);
+}
+.contactos{
+    display: inline;
+}
+#trabajo{
+    text-decoration: underline !important;
+    color:deepskyblue !important;
+}
+h3{
+    font-size: 25px;
+    font-family: Georgia;
+    font-weight: 300;
+    text-align:center;
+}
+
+p{
+    font-size: 20px;
+    font-family: Georgia;
+    font-weight: 300;
+}
+h4{
+    font-size: 35px;
+    font-family: Georgia;
+    font-weight: 300;
+}
+.centrado {
+    text-align: justify;
+  }
